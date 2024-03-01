@@ -37,7 +37,7 @@ python train.py -h
 Here is the training example for the ISBI2015 dataset. Model name can be "unet_2d", "vnet_2d", "r2_unet_2d", "att_unet_2d", "transunet_2d", "swin_unet_2d". Default is "unet_2d"
 
 ```
-python train.py --dataset_type isbi2015 --model_type unet_2d --validation_split_percentage 0.2 --batch_size 8 --epochs 300
+python train.py --dataset_type isbi2015 --model_type unet_2d --validation_split_percentage 0.10 --batch_size 8 --epochs 300
 ```
 
 ## How to cite:
