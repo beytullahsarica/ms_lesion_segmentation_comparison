@@ -12,7 +12,7 @@ scores of 92.82 and 92.91, while the V-Net model achieved the highest ISBI score
 
 ## Generated NPY files
 
-Generated NPY files from the ISBI2015 and MSSEG2016 training datasets should be placed to the dataset folder as follows:
+After generating NPY files from the source of ISBI2015 and MSSEG2016 training datasets, these files should be placed into the dataset folder as follows:
 
 ```
 dataset
