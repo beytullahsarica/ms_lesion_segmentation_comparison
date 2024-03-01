@@ -19,7 +19,7 @@ from keras_unet_collection import models
 from keras_unet_collection import losses
 from sklearn.model_selection import train_test_split
 from metrics import recall, precision
-from model_types import ModelType
+from model_type import ModelType
 from dataset_type import DatasetType
 from utils import get_available_devices, device_info, plot_history, ClearMemory, format_duration, check_device, check_version, make_directory
 
