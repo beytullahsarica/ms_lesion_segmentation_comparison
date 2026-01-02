@@ -41,13 +41,14 @@ python train.py --dataset_type isbi2015 --model_type unet_2d --validation_split_
 If you use this repository, please cite this study as given:
 
 ```
- @article{sarica2024comparison,
-    title={CNN and Transformer U-Nets in Multiple Sclerosis Lesion Segmentation: A Comparative Assessment},
-    author={Sarica, Beytullah, Bicakci, Yunus Serhat and Seker, Dursun Zafer},
-    journal={},
-    volume={},
-    pages={},
-    year={},
-    publisher={}
-  } 
+ @article{sarica2025comparative,
+  title={Comparative Assessment of CNN and Transformer U-Nets in Multiple Sclerosis Lesion Segmentation},
+  author={Sarica, Beytullah and Bicakci, Yunus Serhat and Seker, Dursun Zafer},
+  journal={International Journal of Imaging Systems and Technology},
+  volume={35},
+  number={4},
+  pages={e70146},
+  year={2025},
+  publisher={Wiley Online Library}
+}
 ```
