@@ -1,6 +1,6 @@
 # Comparative Assessment of CNN and Transformer U-Nets in Multiple Sclerosis Lesion Segmentation
 
-This repository contains the implementation of our paper [__Comparative Assessment of CNN and Transformer U-Nets in Multiple Sclerosis Lesion Segmentation__](link to paper).
+This repository contains the implementation of our paper [__Comparative Assessment of CNN and Transformer U-Nets in Multiple Sclerosis Lesion Segmentation__](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.70146).
 
 ## Abstract
 
